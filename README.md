@@ -1,4 +1,4 @@
-### Hi there,  I'm Leah Nguyen :woman_technologist:
+### Hi there,  I'm Leah Nguyen :wave:
 
 - :hammer_and_wrench: I live to solve problems using analytics!
 
