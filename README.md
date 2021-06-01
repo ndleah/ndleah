@@ -28,7 +28,7 @@
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/nduongthucanh/nduongthucanh/master/IMG/Quote.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/nduongthucanh/nduongthucanh/master/IMG/quote.gif" />
 
 :hammer_and_wrench: I'm Leah and **I live to solve problems using analytics!** 
 
