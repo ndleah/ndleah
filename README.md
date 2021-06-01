@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/nduongthucanh/nduongthucanh/blob/main/IMG/cover.gif"></p>
+<p  align="center"><img src = "https://github.com/nduongthucanh/nduongthucanh/blob/main/IMG/intro.gif"></p>
 
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
@@ -28,7 +28,7 @@
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/nduongthucanh/nduongthucanh/master/IMG/quote.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/nduongthucanh/nduongthucanh/blob/main/IMG/quote.gif" />
 
 :hammer_and_wrench: I'm Leah and **I live to solve problems using analytics!** 
 
