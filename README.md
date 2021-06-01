@@ -22,7 +22,7 @@
 
 <br />
 
-### ### Welcome to my GitHub profile! :wave:
+### Welcome to my GitHub profile! :wave:
 
 ---
 
