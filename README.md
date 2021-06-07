@@ -19,7 +19,9 @@
 <a href="https://discordapp.com/users/329565478794297345">
   <img align="left" alt="Leah's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-
+<a href="https://open.spotify.com/user/217rxnq3w6x3eqehrvodhv75y?si=b947163133844bc2">
+  <img align="left" alt="Leah's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
 <br />
 
 ### Welcome to my GitHub profile! :octocat:
