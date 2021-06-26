@@ -55,7 +55,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <p align="center">
   <a href="https://nduongthucanh.vercel.app/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://nduongthucanh.vercel.app/api/now-playing">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&cover_image=true&theme=default">
   </a>
 </p>
 
