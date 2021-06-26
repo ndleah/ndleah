@@ -5,7 +5,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/nduongthucanh)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nduongthucanh&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/nduongthucanh/nduongthucanh?logo=markdown&label=LAST+UPDATE&color=971901&style=flat">
 
 <a href="https://www.linkedin.com/in/nduongthucanh/">
   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
