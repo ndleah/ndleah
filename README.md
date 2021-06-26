@@ -22,9 +22,12 @@
 <a href="https://open.spotify.com/user/217rxnq3w6x3eqehrvodhv75y?si=b947163133844bc2">
   <img align="left" alt="Leah's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
+<a href="https://www.hackerrank.com/nduongthucanh?hr_r=1">
+  <img align="left" alt="Leah's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 <br />
 
-### Welcome to my GitHub profile! :octocat:
+## Welcome to my GitHub profile! :octocat:
 
 ---
 
@@ -39,3 +42,18 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 **Fun Facts:**
 - :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Google Analytics```**, and visualisation tools such as **```Power BI```**, **```Tableau```** and **```Data Studio```**.
 - :sparkles: **My greatest passion:** using Data Visualisation to tell story within data and derive insights for business success.
+
+---
+
+## Stats 📈
+
+![stats](https://github-readme-stats.vercel.app/api?username=nduongthucanh&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)
+
+---
+## Music Playing 🎵
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&redirect=true)
+
+---
+
+## View My Repositories 👇
