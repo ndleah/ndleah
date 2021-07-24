@@ -6,10 +6,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/nduongthucanh)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nduongthucanh&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
-<a href="https://www.linkedin.com/in/nduongthucanh/">
+<a href="https://www.linkedin.com/in/ndleah/">
   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/nduongthucanh">
+<a href="https://github.com/ndleah">
   <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/anhmeu/">
