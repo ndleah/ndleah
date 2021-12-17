@@ -41,14 +41,19 @@
 ---
 
 ## Stats 📈
+<p align="center">
 </a>
 <a href="https://github.com/ndleah">
   <img src="https://github-readme-stats.vercel.app/api?username=ndleah&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true"/>
 </a>
+</p>
+
+<p align="center">
 </a>
 <a href="https://github.com/ndleah">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndleah&layout=compact&no-bg=true&hide_border=true"/>
 </a>
+</p>
 
 ---
 ## Music Playing 🎵
