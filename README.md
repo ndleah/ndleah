@@ -1,7 +1,6 @@
 <p  align="center"><img src = "https://github.com/ndleah/ndleah/blob/main/IMG/intro.gif"></p>
 
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<br />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
@@ -26,28 +25,30 @@
 </a>
 <br />
 
+
 ## Welcome to my GitHub profile! :octocat:
-
----
-
-<br />
 
 <img align="right" height="250" width="375" alt="GIF" src="https://github.com/ndleah/ndleah/blob/main/IMG/quote.gif" />
 
-:hammer_and_wrench: I'm Leah and **I live to solve problems using analytics!** 
+:hammer_and_wrench: I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and **I live to solve problems using analytics!** 
 
-For me, data analysis is a way to identify a pattern, to detect a key problem among outliers and to tell a valuable story to make an impact :bar_chart:.
+:bar_chart: For me, data analysis is a way to identify a pattern, to detect a key problem among outliers and to tell a valuable story to make an impact .
 
-**Fun Facts:**
-- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Google Analytics```**, and visualisation tools such as **```Power BI```**, **```Tableau```** and **```Data Studio```**.
-- :sparkles: **My greatest passion:** Using data to tell stories and derive insights for business success.
+✍️ I'm particularly interested in **`predictive analytics`**, **`machine learning`** and applying statistical models to solve interesting novel business problems.
+
+✨ I rely on using **`SQL`** to obtain and prepare my data, heavily utilizing **`Python`** and **`R`** to clean, analyze, visualize and perform machine learning on big data sets and have prior experience in using **`Power BI`**, **`IBM Congos`** for data visualization and **`HTML`**, **`CSS`** for website deployment.
 
 ---
 
 ## Stats 📈
-
-[![stats](https://github-readme-stats.vercel.app/api?username=ndleah&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/ndleah)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndleah&layout=compact)](https://github.com/ndleah)
+</a>
+<a href="https://github.com/ndleah">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndleah&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true"/>
+</a>
+</a>
+<a href="https://github.com/ndleah">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndleah&layout=compact&no-bg=true&hide_border=true"/>
+</a>
 
 ---
 ## Music Playing 🎵
