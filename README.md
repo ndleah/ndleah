@@ -42,29 +42,9 @@
 
 ---
 
-## Stats 📈
+## Metrics 📈
 
-<p align="center">
-</a>
-<a href="https://github.com/ndleah">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndleah&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true"/>
-<a href="https://github.com/ndleah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndleah&layout=compact&no-bg=true&hide_border=true"/>
-</a>
-</p>
-
----
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/ndleah/python-mini-project/pull/18) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
-2. 🎉 Merged PR [#19](https://github.com/ndleah/python-mini-project/pull/19) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
-3. 🎉 Merged PR [#17](https://github.com/ndleah/python-mini-project/pull/17) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
-4. 🎉 Merged PR [#16](https://github.com/ndleah/python-mini-project/pull/16) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
-5. 🎉 Merged PR [#15](https://github.com/ndleah/python-mini-project/pull/15) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
-<!--END_SECTION:activity-->
-
+![Metrics](https://metrics.lecoq.io/ndleah?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=ndleah%2FMLM-Victoria-Road-Accidents%2C%20ndleah%2Fdvd-rental-marketing-analytics%2C%20ndleah%2Fself-quantified-data-analysis%2C%20ndleah%2F8-Week-SQL-Challenge%2C%20ndleah%2FData_Explorer_Web_App%2C%20ndleah%2Fcurrency-converter&config.timezone=Asia%2FBangkok&config.display=large)
 
 ---
 ## Music Playing 🎵
