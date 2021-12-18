@@ -36,8 +36,6 @@
 
 ✍️ I'm particularly interested in **`predictive analytics`**, **`machine learning`** and applying statistical models to solve interesting novel business problems.
 
-✨ I rely on using **`SQL`** to obtain and prepare my data, heavily utilizing **`Python`** and **`R`** to clean, analyze, visualize and perform machine learning on big data sets and have prior experience in using **`Power BI`**, **`IBM Congos`** for data visualization and **`HTML`**, **`CSS`** for website deployment.
-
 ---
 
 ## Stats 📈
