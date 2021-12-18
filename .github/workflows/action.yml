@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: ndleah
@@ -44,7 +44,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_repositories: 100
-          plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_repositories_featured: ndleah/MLM-Victoria-Road-Accidents, ndleah/dvd-rental-marketing-analytics, ndleah/self-quantified-data-analysis, ndleah/8-Week-SQL-Challenge, ndleah/Data_Explorer_Web_App, ndleah/currency-converter
