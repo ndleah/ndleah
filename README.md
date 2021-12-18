@@ -69,6 +69,12 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18](https://github.com/ndleah/python-mini-project/pull/18) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
+2. 🎉 Merged PR [#19](https://github.com/ndleah/python-mini-project/pull/19) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
+3. 🎉 Merged PR [#17](https://github.com/ndleah/python-mini-project/pull/17) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
+4. 🎉 Merged PR [#16](https://github.com/ndleah/python-mini-project/pull/16) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
+5. 🎉 Merged PR [#15](https://github.com/ndleah/python-mini-project/pull/15) in [ndleah/python-mini-project](https://github.com/ndleah/python-mini-project)
+<!--END_SECTION:activity-->
 
 
 ---
