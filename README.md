@@ -51,14 +51,9 @@
 
 <p align="center">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&cover_image=true&theme=default&bar_color=b11b1b&bar_color_cover=true">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://nduongthucanh.vercel.app/api/top-played">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&cover_image=true&theme=default&bar_color=b11b1b&bar_color_cover=true"><img src="https://nduongthucanh.vercel.app/api/top-played">
 </p>
 
 ---
 
-## View My Repositories 👇
+## View More of My Repositories 👇
