@@ -15,8 +15,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-            # ... other options
-            plugin_isocalendar: yes
-            plugin_isocalendar_duration: full-year # Display full year instead of half year
