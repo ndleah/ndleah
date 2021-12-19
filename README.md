@@ -39,8 +39,14 @@
 💻 **Languages/Tech Stack:** 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+---
+
+## Metrics 📈
+
+![Metrics](https://metrics.lecoq.io/ndleah?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=ndleah%2Fself-quantified-data-analysis%2C%20ndleah%2F8-Week-SQL-Challenge%2C%20ndleah%2Fnorthwind-company-analysis%2C%20ndleah%2Fdvd-rental-marketing-analytics%2C%20ndleah%2Fcurrency-converter%2C%20ndleah%2FData_Explorer_Web_App&config.twemoji=true&config.display=large)
 
 ---
+
 ## Music Playing 🎵
 
 <p align="center">
@@ -48,11 +54,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=217rxnq3w6x3eqehrvodhv75y&cover_image=true&theme=default&bar_color=b11b1b&bar_color_cover=true"><img src="https://nduongthucanh.vercel.app/api/top-played">
 </p>
 
----
 
-## Metrics 📈
-
-![Metrics](https://metrics.lecoq.io/ndleah?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=ndleah%2Fself-quantified-data-analysis%2C%20ndleah%2F8-Week-SQL-Challenge%2C%20ndleah%2Fnorthwind-company-analysis%2C%20ndleah%2Fdvd-rental-marketing-analytics%2C%20ndleah%2Fcurrency-converter%2C%20ndleah%2FData_Explorer_Web_App&config.twemoji=true&config.display=large)
 
 ---
 
