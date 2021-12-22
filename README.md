@@ -3,8 +3,8 @@
 # Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="Visitors" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=github"/>
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
 
 <a href="https://www.linkedin.com/in/ndleah/">
   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
