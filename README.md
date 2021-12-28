@@ -12,7 +12,7 @@
 <a href="https://github.com/ndleah">
   <img align="left" alt="Leah's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="	https://medium.com/@ndleah">
+<a href="https://medium.com/@ndleah">
   <img align="left" alt="Leah's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://instagram.com/anhmeu/">
