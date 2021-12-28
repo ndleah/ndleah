@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/ndleah/ndleah/blob/main/IMG/intro.gif"></p>
+<p  align="center"><img src = "IMG/intro.gif"></p>
 
 # Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -25,7 +25,7 @@
 
 ## I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
-<img align="right" height="250" width="375" alt="GIF" src="https://github.com/ndleah/ndleah/blob/main/IMG/quote.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
 
 I'm a **`Data Science practitioner`**, an **`Open-source Contributor`** and a **`Content Creator`**!
 
