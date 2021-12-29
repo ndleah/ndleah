@@ -50,6 +50,8 @@ I'm a **`Data Science practitioner`**, an **`Open-source Contributor`** and a **
 ## 👇 Check out my latest Medium blog
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2" alt="Recent Article 2"> 
   
 ---
 
