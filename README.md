@@ -1,28 +1,28 @@
 <p  align="center"><img src = "IMG/intro.gif"></p>
 
-# Hello World! 👋
+<h1 align="center"> Hello World! 👋 </h1>
+<div align="center">
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ndleah)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
+<br>
 
-<a href="https://www.linkedin.com/in/ndleah/">
-  <img align="left" alt="Leah's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ndleah">
-  <img align="left" alt="Leah's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://medium.com/@ndleah">
-  <img align="left" alt="Leah's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://discordapp.com/users/329565478794297345">
-  <img align="left" alt="Leah's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<br />
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
-## I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
+<br>
+
+<img align="center" alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img align="center" alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/ndleah?label=Follow&style=social)](https://github.com/ndleah/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nduongthucanh@gmail.com)](mailto:email@anuragsingh.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ndleah/)](https://www.linkedin.com/in/ndleah/)
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ndleah)](https://medium.com/@ndleah)
 
 <img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
+
+
+</div>
 
 I'm a **`Data Engineer`**, an **`Open-source Contributor`** and a **`Content Creator`**!
 
@@ -34,12 +34,7 @@ I'm a **`Data Engineer`**, an **`Open-source Contributor`** and a **`Content Cre
 * 🤔 I don’t trust people who don’t write SQL queries in uppercase.
 * 📈 Particularly interested in **`Modern Data Stacks`**, **`Data Engineering`**, **`DataOps`** and applying best data governance practices to improve enterprise data architectures.
 
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-
----
+<br>
 
 ## 👇 Check out my latest Medium blog
 
