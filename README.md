@@ -54,6 +54,9 @@ I'm a **`Data Engineer`**, an **`Open-source Contributor`** and a **`Content Cre
   
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Metrics 📈
 
 ![Metrics](https://metrics.lecoq.io/ndleah?template=classic&languages=1&isocalendar=1&achievements=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=ndleah%2Fself-quantified-data-analysis%2C%20ndleah%2F8-Week-SQL-Challenge%2C%20ndleah%2Fnorthwind-company-analysis%2C%20ndleah%2Fdvd-rental-marketing-analytics%2C%20ndleah%2Fcurrency-converter%2C%20ndleah%2FData_Explorer_Web_App&config.twemoji=true&config.display=large)
