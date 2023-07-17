@@ -56,6 +56,46 @@ I'm a **`Data Engineer`**, an **`Open-source Contributor`** and a **`Content Cre
 ## Metrics 📈
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 591.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 957 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌆 Daytime                1014 commits        ████████████░░░░░░░░░░░░░   46.28 % 
+🌃 Evening                742 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 17/07/2023 12:26:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
