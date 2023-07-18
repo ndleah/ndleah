@@ -12,8 +12,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=700&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!)](https://git.io/typing-svg)<br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/ndleah?label=Follow&style=social)](https://github.com/ndleah/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nduongthucanh@gmail.com)](mailto:email@anuragsingh.dev)
