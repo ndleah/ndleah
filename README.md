@@ -1,18 +1,17 @@
-<h1 align="center"> Hello World! 👋 </h1>
 <div align="center">
+
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
+
+<h1> Hello World! 👋 </h1>
+
 <br>
 
-<p  align="center"><img src = "IMG/intro.gif"></p>
+<img src="IMG/my-image.png" width="150">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
-<br>
-
-<img align="center" alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img align="center" alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
-
-<br>
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/ndleah?label=Follow&style=social)](https://github.com/ndleah/?tab=follow)
@@ -20,25 +19,52 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ndleah/)](https://www.linkedin.com/in/ndleah/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ndleah)](https://medium.com/@ndleah)
 
+<br>
+
 <img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
 
 
 </div>
 
-I'm a **`Data Engineer`**, an **`Open-source Contributor`** and a **`Content Creator`**!
+I'm a **Data Engineer**, an **Open-source Contributor** and a **Content Creator**!
 
-❤️ **Fun facts:**
-
-* 👩‍🎓 Before switching to Data Science, I'm a Marketing enthusiast who got a Bachelor's Degree in Business. 
-* ✍️ Graduated with a Master's Degree of Data Science and Innovation (MDSI) from the [**University of Technology Sydney**](https://www.uts.edu.au/) to improve my knowledge as a data professional. 
-* ✨ Spend hours to beautify my code and GitHub markdown because my OCD cannot stand reading sloppy documentation. 
-* 🤔 I don’t trust people who don’t write SQL queries in uppercase.
-* 📈 Particularly interested in **`Modern Data Stacks`**, **`Data Engineering`**, **`DataOps`** and applying best data governance practices to improve enterprise data architectures.
+**Fun facts:**
+```
+👩‍🎓 Former Marketing guru turned Data Science wizard with a Business degree in hand.
+  
+✍️ Master of Data Science and Innovation (MDSI) graduate from the University of Technology Sydney, armed with supercharged data skills.
+  
+🤔 If you don't write your SQL queries in uppercase, I don't trust you.
+  
+📈 Madly passionate about Modern Data Stacks, Data Engineering, DataOps, and saving the day with top-notch data governance practices for enterprise data architectures. Let's optimize that data flow!
+```
 
 <br>
 
 <div align="center">
-<br>
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="25" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
+</div>
 
 ## 👇 Check out my latest Medium blog
 
@@ -54,6 +80,8 @@ I'm a **`Data Engineer`**, an **`Open-source Contributor`** and a **`Content Cre
 <br>
 
 ## Metrics 📈
+
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
@@ -106,8 +134,3 @@ No activity tracked
 
 <!--END_SECTION:waka-simple-->
 
-<br>
-
-## View more repositories 👇
-
-</div>
