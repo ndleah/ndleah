@@ -10,8 +10,7 @@
 <img src="IMG/my-image.png" width="150">
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Leah**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile! :octocat:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=700&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!)](https://git.io/typing-svg)<br>
 
