@@ -82,15 +82,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 591.0 kB Used in GitHub's Storage 
+> 📦 591.2 kB Used in GitHub's Storage 
  > 
-> 🏆 957 Contributions in the Year 2023
+> 🏆 964 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -101,10 +101,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-🌆 Daytime                1014 commits        ████████████░░░░░░░░░░░░░   46.28 % 
-🌃 Evening                742 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
-🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+🌞 Morning                337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+🌆 Daytime                1019 commits        ████████████░░░░░░░░░░░░░   46.36 % 
+🌃 Evening                743 commits         ████████░░░░░░░░░░░░░░░░░   33.80 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 
 
@@ -114,14 +114,15 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 34 mins             ████████████████░░░░░░░░░   65.11 % 
+YAML                     18 mins             █████████░░░░░░░░░░░░░░░░   34.89 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nduongthucanh            53 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2023 12:26:03 UTC
+ Last Updated on 18/07/2023 12:23:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
