@@ -128,7 +128,12 @@ nduongthucanh            53 mins             ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-No activity tracked
+From: 17 December 2021 - To: 17 July 2023
+
+Total Time: 53 mins
+
+Markdown   34 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.11 %
+YAML       18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.89 %
 ```
 
 <!--END_SECTION:waka-simple-->
