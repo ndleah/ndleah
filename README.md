@@ -82,29 +82,29 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 591.2 kB Used in GitHub's Storage 
+> 📦 592.1 kB Used in GitHub's Storage 
  > 
-> 🏆 964 Contributions in the Year 2023
+> 🏆 971 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-🌆 Daytime                1019 commits        ████████████░░░░░░░░░░░░░   46.36 % 
-🌃 Evening                743 commits         ████████░░░░░░░░░░░░░░░░░   33.80 % 
-🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌞 Morning                338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌆 Daytime                1021 commits        ████████████░░░░░░░░░░░░░   46.32 % 
+🌃 Evening                746 commits         ████████░░░░░░░░░░░░░░░░░   33.85 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 
@@ -114,15 +114,15 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 34 mins             ████████████████░░░░░░░░░   65.11 % 
-YAML                     18 mins             █████████░░░░░░░░░░░░░░░░   34.89 % 
+Markdown                 1 hr 33 mins        █████████████████████░░░░   83.50 % 
+YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 
 🐱‍💻 Projects: 
-nduongthucanh            53 mins             █████████████████████████   100.00 % 
+nduongthucanh            1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2023 12:23:35 UTC
+ Last Updated on 19/07/2023 12:22:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
