@@ -60,8 +60,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>   
 </div>
 
 ## 👇 Check out my latest Medium blog
@@ -74,7 +73,13 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2" alt="Recent Article 2"> 
 </a>
-  
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3" alt="Recent Article 3"> 
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/4" alt="Recent Article 4">
+</a>
+
 <br>
 
 ## Metrics 📈
