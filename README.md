@@ -139,7 +139,7 @@ AWS-ETL-pipeline         7 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 17 December 2021 - To: 26 August 2023
+From: 17 December 2021 - To: 27 August 2023
 
 Total Time: 11 hrs 21 mins
 
