@@ -1,16 +1,54 @@
-name: wakatime-stats
-
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@V3
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - read:user
+          #  - read:org
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: ndleah
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Australia/Sydney
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: top
+          plugin_music_played_at: yes
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: .user.login
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_size: 24
+          plugin_sponsors_title: Sponsor Me!
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: ndleah
